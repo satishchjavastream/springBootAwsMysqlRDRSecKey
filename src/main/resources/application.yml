@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static:
+      auto: false
+    credentials:
+      access-key:
+      secret-key: 
+
+
+server:
+  port: 9091
